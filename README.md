@@ -55,10 +55,10 @@ To build a fully functional crypto dashboard that allows users to:
 
 1. **Clone the repository** and open the project folder in **VS Code**.
 2. In the **terminal**, navigate to the backend/server directory and run:
-> node server.js
+>> node server.js
 3. Open a second terminal, navigate to the frontend/project directory, and run:
-> npm run dev
-Visit the specified port to view the app in your browser.
+>> npm run dev
+4. Visit the specified port to view the app in your browser.
 
 ---
 

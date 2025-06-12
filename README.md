@@ -58,7 +58,7 @@ To build a fully functional crypto dashboard that allows users to:
    $ node server.js
 3.Open a second terminal, navigate to the frontend/project directory, and run:
    $ npm run dev
-Visit http://localhost:5173 (or the specified port) to view the app in your browser.
+Visit the specified port to view the app in your browser.
 
 ---
 

@@ -1,0 +1,33 @@
+.crypto-page {
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+  color: white;
+}
+
+.crypto-page h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #66fcf1;
+}
+
+.crypto-page h2 {
+  margin-bottom: 20px;
+  color: #66fcf1;
+}
+
+.crypto-page section {
+  margin-bottom: 20px;
+}
+
+.crypto-page ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.crypto-page p {
+  line-height: 1.6;
+}
+  
+  
+  

@@ -64,8 +64,8 @@ To build a fully functional crypto dashboard that allows users to:
 
 ## 📈 Future Enhancements
 
-🔐 User authentication and login
-📝 Custom watchlists and alert notifications
-🌐 Multi-currency conversion (USD, EUR, etc.)
-🚀 Live deployment with CI/CD support
+- 🔐 User authentication and login
+- 📝 Custom watchlists and alert notifications
+- 🌐 Multi-currency conversion (USD, EUR, etc.)
+- 🚀 Live deployment with CI/CD support
 

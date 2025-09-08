@@ -1,6 +1,6 @@
 # 💹 Coin Metrics – Cryptocurrency Tracker Dashboard
 
-A modern web-based dashboard for tracking real-time cryptocurrency prices, historical trends, and market metrics. Built with React, Tailwind CSS, and powered by the CoinGecko API.
+A modern web-based dashboard for tracking real-time cryptocurrency prices, historical trends, and market metrics. Built with React, CSS, and powered by the CoinGecko API.
 
 ---
 
@@ -28,7 +28,7 @@ To build a fully functional crypto dashboard that allows users to:
 - **React.js** – UI framework
 - **Redux Toolkit** – State management
 - **React Router** – Client-side routing
-- **Tailwind CSS** – Styling and layout
+- **CSS** – Styling and layout
 
 ### 🔹 Backend:
 - **Node.js** – Runtime for server
